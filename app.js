@@ -72,18 +72,7 @@ getBtn.addEventListener('click', function(event) {
       getCheckBox[0].parentElement.style.backgroundColor = 'var(--white)'
       getCheckBox[1].parentElement.style.backgroundColor = 'var(--white)'
     }
-    
- 
-
-      
-
-
-
-
-
-
 })
-
 
 function toggleCheckbox(checkbox) {
     
